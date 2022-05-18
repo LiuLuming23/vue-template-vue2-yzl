@@ -18,7 +18,10 @@ To use this template, add `vue create --preset vue-template-vue2-yzl` when creat
 For example:
 
 ```sh
-vue create --preset vue-template-vue2-yzl my-app
+vue create --preset LiuLuming23/vue-template-vue2-yzl#master my-app
 
+#or
+
+vue create --preset direct:https://gitee.com/leaf-deer/vue-template-vue2-yzl.git#master --clone my-app
 ```
 ------
