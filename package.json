@@ -10,7 +10,7 @@
     "description": "The base javascript template for Create vue App By YZL.",
     "repository": {
       "type": "git",
-      "url": "https://gitee.com/leaf-deer/cra-templete-yzl-typescript.git"
+      "url": "https://gitee.com/leaf-deer/vue-template-vue2-yzl.git"
     },
     "license": "MIT",
     "engines": {
