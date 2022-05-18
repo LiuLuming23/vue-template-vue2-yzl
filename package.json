@@ -1,0 +1,19 @@
+{
+    "name": "vue-template-vue2-yzl",
+    "version": "0.1.1",
+    "keywords": [
+      "vue",
+      "create-vue-app",
+      "template",
+      "javascript"
+    ],
+    "description": "The base javascript template for Create vue App By YZL.",
+    "repository": {
+      "type": "git",
+      "url": "https://gitee.com/leaf-deer/cra-templete-yzl-typescript.git"
+    },
+    "license": "MIT",
+    "engines": {
+      "node": ">=14"
+    }
+  }
